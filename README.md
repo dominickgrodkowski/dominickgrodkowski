@@ -25,13 +25,6 @@ I'm a passionate student currently immersed in the world of web development. I a
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
 </p>
 
-### 📰 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Recent Article 0](https://github-readme-medium-recent-article.vercel.app/medium/@DominickGrodkowski/0)
-- [Recent Article 1](https://github-readme-medium-recent-article.vercel.app/medium/@DominickGrodkowski/1)
-- [Recent Article 3](https://github-readme-medium-recent-article.vercel.app/medium/@DominickGrodkowski/3)
-<!-- BLOG-POST-LIST:END -->
-
 # Welcome to Dominick Grodkowski's GitHub! 👋
 
 <!-- Other sections of your README -->
