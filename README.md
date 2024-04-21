@@ -1,5 +1,5 @@
 # Welcome to Dominick Grodkowski's GitHub! 👋
-![](https://komarev.com/ghpvc/?username=dominickgrodkowski&color=orange)
+
 ### 👨‍💻 About Me
 I'm a passionate student currently immersed in the world of web development. I am eager to learn and grow my skills in technologies that power the internet from front to back. My goal is to become a skilled fullstack developer, and I am actively working on expanding my knowledge and experience in various programming languages and tools.
 
