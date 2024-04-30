@@ -23,6 +23,7 @@ I'm a passionate student currently immersed in the world of web development. I a
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
+  typescript
 </p>
 
 # Welcome to Dominick Grodkowski's GitHub! 👋
