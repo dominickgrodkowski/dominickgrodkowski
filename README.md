@@ -1,16 +1,23 @@
 # Welcome to Dominick Grodkowski's GitHub! 👋
 
-### 👨‍💻 About Me
-I'm a passionate student currently immersed in the world of web development. I am eager to learn and grow my skills in technologies that power the internet from front to back. My goal is to become a skilled fullstack developer, and I am actively working on expanding my knowledge and experience in various programming languages and tools.
+## 👨‍💻 About Me
+I am a dynamic professional with a profound passion for **web development** and a strong background in **Big Data**. With three years in the tech industry, I specialize in creating user-centric, engaging websites and am focused on leveraging my frontend development expertise to craft visually appealing digital experiences.
 
-### 🌱 What I'm Learning
-- **Web Development Basics & Tools:** Understanding the fundamental technologies and methodologies in modern web development.
-- **Languages:** HTML5, CSS3, JavaScript, PHP, and exploring JS-frameworks like jQuery.
-- **Frameworks & Libraries:** Gaining expertise in Bootstrap for frontend, React for advanced UI development, and diving into backend development with Node.js and Express.
-- **Databases:** Hands-on practice with relational databases like MySQL and using PHP to interact with databases.
-- **APIs & Web Applications:** Developing skills to work with APIs and learning how to build robust web applications.
-- **DevOps & Deployment:** Introduction to version control with Git, using Docker for virtualization, and deploying projects with cloud services.
-- **Security & Best Practices:** Learning about web security, data protection basics, and ensuring best practices in web projects.
+## 🌱 What I'm Learning and Mastering
+
+- **Advanced Web Development:** Proficient in `HTML5`, `CSS3`, `JavaScript`, and `PHP` with a strong grasp on frameworks like `React`, `Bootstrap`, and libraries like `jQuery`. Actively enhancing my skills in frontend technologies and exploring backend development with `Node.js`.
+- **Full Stack Development:** Recently completed an intensive Full Stack Development program, mastering tools and technologies across the web development spectrum, from responsive design to backend services.
+- **Data Analysis & Big Data:** Skilled in `Python`, `RStudio`, `MySQL`, `Google BigQuery`, and familiar with data visualization tools such as `Google Analytics`, `Tableau`, `Qlik Sense`, and `Cognos Analytics`.
+- **Project Management & Development Tools:** Experienced with `Git`, `Docker`, and cloud platforms like `Google Cloud`. Proficient in using `Jira` and `Confluence` for project management.
+- **E-Commerce & SEO:** Founder of Averruncus e.K, successfully managing an e-commerce platform. Skilled in SEO, market research, and the use of `WordPress` and `Shopify` to drive business success.
+- **DevOps & Security:** Applying best practices in security, using modern DevOps tools to ensure robust, scalable, and secure deployments.
+
+## 🔍 Current Projects
+
+- **Marriage Website:** A bespoke platform designed for event management and scheduling, enhancing user interaction and functionality.
+- **E-Commerce Website:** An advanced site built for [Cardify-Store.de](https://cardify-store.de/), featuring integrated analytics and user-friendly navigation.
+- **Regional Resort Analysis Dashboard:** An insightful [Tableau visualization](https://public.tableau.com/app/profile/dominick.grodkowski/viz/RegionalResortAnalysisofThailandUpdatedVersion/RegionalResortAnalysisDashboardofThailand) providing strategic data on tourism dynamics in Thailand.
+- **Los Angeles Crime Trends Dashboard:** A detailed [analytical study](https://public.tableau.com/app/profile/dominick.grodkowski/viz/LosAngelesCrimeTrendsOverTime/Dashboard1) of crime trends over time, developed to aid in sociological and city planning research.
 
 ### 🛠 Technologies
 <p align="left">
