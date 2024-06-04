@@ -38,7 +38,7 @@ I'm a passionate student currently immersed in the world of web development. I a
 ![Dominick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominickgrodkowski&amp;rank_icon=github)
 
 ### 💻 Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominickgrodkowski&layout=donut)](https://github.com/dominickgrodkowski/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominickgrodkowski&layout=donut-vertical)](https://github.com/dominickgrodkowski/github-readme-stats)
 
 
 
