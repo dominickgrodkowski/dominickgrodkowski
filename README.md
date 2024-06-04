@@ -32,7 +32,7 @@ I'm a passionate student currently immersed in the world of web development. I a
 
 # Welcome to Dominick Grodkowski's GitHub! 👋
 
-<!-- Other sections of your README -->
+
 
 ### 📊 GitHub Stats:
 ![Dominick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominickgrodkowski&amp;rank_icon=github)
@@ -40,9 +40,6 @@ I'm a passionate student currently immersed in the world of web development. I a
 ### 💻 Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominickgrodkowski&layout=donut)](https://github.com/dominickgrodkowski/github-readme-stats)
 
-<!-- Replace 'yourusername' with your actual GitHub username and 'YOUR_THEME_HERE' with the theme you want to use. -->
-
-<!-- Social links and other sections -->
 
 
 ### 📫 How to Reach Me
