@@ -19,6 +19,7 @@ I am a dynamic professional with a profound passion for **web development** and 
 - **E-Commerce Website:** An advanced site built for [Cardify-Store.de](https://cardify-store.de/), featuring integrated analytics and user-friendly navigation.
 - **Regional Resort Analysis Dashboard:** An insightful [Tableau visualization](https://public.tableau.com/app/profile/dominick.grodkowski/viz/RegionalResortAnalysisofThailandUpdatedVersion/RegionalResortAnalysisDashboardofThailand) providing strategic data on tourism dynamics in Thailand.
 - **Los Angeles Crime Trends Dashboard:** A detailed [analytical study](https://public.tableau.com/app/profile/dominick.grodkowski/viz/LosAngelesCrimeTrendsOverTime/Dashboard1) of crime trends over time, developed to aid in sociological and city planning research.
+- **Portfolio Website:** Explore my personal projects and professional achievements at [Dominick-Grodkowski.de](https://Dominick-Grodkowski.de).
 
 ### 🛠 Technologies
 <p align="left">
