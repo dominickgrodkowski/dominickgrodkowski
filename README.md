@@ -5,12 +5,13 @@ I am a dynamic professional with a profound passion for **web development** and 
 
 ## 🌱 What I'm Learning and Mastering
 
-- **Advanced Web Development:** Proficient in `HTML5`, `CSS3`, `JavaScript`, and `PHP` with a strong grasp on frameworks like `React`, `Bootstrap`, and libraries like `jQuery`. Actively enhancing my skills in frontend technologies and exploring backend development with `Node.js`.
+- **Advanced Web Development:** Proficient in `HTML5`, `CSS3`, `JavaScript`, and `PHP` with a strong grasp on frameworks like `React`, `Bootstrap`, and libraries like `jQuery`. Actively enhancing my skills in frontend technologies and exploring backend development with `Node.js` and `Symfony`.
 - **Full Stack Development:** Recently completed an intensive Full Stack Development program, mastering tools and technologies across the web development spectrum, from responsive design to backend services.
 - **Data Analysis & Big Data:** Skilled in `Python`, `RStudio`, `MySQL`, `Google BigQuery`, and familiar with data visualization tools such as `Google Analytics`, `Tableau`, `Qlik Sense`, and `Cognos Analytics`.
 - **Project Management & Development Tools:** Experienced with `Git`, `Docker`, and cloud platforms like `Google Cloud`. Proficient in using `Jira` and `Confluence` for project management.
 - **E-Commerce & SEO:** Founder of Averruncus e.K, successfully managing an e-commerce platform. Skilled in SEO, market research, and the use of `WordPress` and `Shopify` to drive business success.
 - **DevOps & Security:** Applying best practices in security, using modern DevOps tools to ensure robust, scalable, and secure deployments.
+
 
 ## 🔍 Current Projects
 
