@@ -1,4 +1,4 @@
-u# Welcome to Dominick Grodkowski's GitHub! 👋
+Welcome to Dominick Grodkowski's GitHub! 👋
 
 ## 👨‍💻 About Me
 I am a dynamic professional with a profound passion for **web development** and a strong background in **Big Data**. With three years in the tech industry, I specialize in creating user-centric, engaging websites and am focused on leveraging my frontend development expertise to craft visually appealing digital experiences.
