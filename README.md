@@ -32,8 +32,8 @@ I am a dynamic professional with a profound passion for **web development** and 
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Next.js" width="40" height="40"/>" alt="react" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="40" height="40"/>" alt="vite" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> 
