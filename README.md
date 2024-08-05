@@ -15,7 +15,8 @@ I am a dynamic professional with a profound passion for **web development** and 
 
 ## 🔍 Current Projects
 
-- **Marriage Website:** A bespoke platform designed for event management and scheduling, enhancing user interaction and functionality.
+- **E-Commerce Website:** A [Fitness-Website](https://fitness-typescript-cw8.pages.dev/) howcasing our state-of-the-art facilities, expert trainers, and tailored fitness programs designed to help you achieve your health and wellness goals.
+- **Marriage Website:** A single-page application [Wedding-Website](http://dominickandaleenasaidyes.de/) with responsive design that highlights a professional Wedding invitation.
 - **E-Commerce Website:** An advanced site built for [Cardify-Store.de](https://cardify-store.de/), featuring integrated analytics and user-friendly navigation.
 - **Regional Resort Analysis Dashboard:** An insightful [Tableau visualization](https://public.tableau.com/app/profile/dominick.grodkowski/viz/RegionalResortAnalysisofThailandUpdatedVersion/RegionalResortAnalysisDashboardofThailand) providing strategic data on tourism dynamics in Thailand.
 - **Los Angeles Crime Trends Dashboard:** A detailed [analytical study](https://public.tableau.com/app/profile/dominick.grodkowski/viz/LosAngelesCrimeTrendsOverTime/Dashboard1) of crime trends over time, developed to aid in sociological and city planning research.
@@ -31,6 +32,8 @@ I am a dynamic professional with a profound passion for **web development** and 
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Next.js" width="40" height="40"/>" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="40" height="40"/>" alt="vite" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> 
