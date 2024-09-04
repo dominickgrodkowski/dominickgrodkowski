@@ -1,4 +1,6 @@
-![Welcome GIF]([https://giphy.com/embed/hwHq2FFtzGqHR7AIgm](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hhZDh3MGVjY3Bobm9vOHl4c2ZxdXl5OTRzZXdqdHdjMDkyM20xNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwHq2FFtzGqHR7AIgm/giphy-downsized-large.gif))
+![Welcome GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hhZDh3MGVjY3Bobm9vOHl4c2ZxdXl5OTRzZXdqdHdjMDkyM20xNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwHq2FFtzGqHR7AIgm/giphy-downsized-large.gif)
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hhZDh3MGVjY3Bobm9vOHl4c2ZxdXl5OTRzZXdqdHdjMDkyM20xNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwHq2FFtzGqHR7AIgm/giphy-downsized-large.gif
+
 # Hi 👋, I'm Dominick Grodkowski
 
 ## 👨‍💻 About Me
