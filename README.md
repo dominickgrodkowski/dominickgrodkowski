@@ -5,7 +5,7 @@
 # Hi 👋, I'm Dominick Grodkowski
 
 ## 👨‍💻 About Me
-I am a dynamic professional with a profound passion for **Web Development** and a strong background in **Big Data**. With three years in the tech industry, I specialize in creating user-centric, engaging websites and am focused on leveraging my frontend development expertise to craft visually appealing digital experiences.
+I am a dynamic professional with a profound passion for **Web Development** and a strong background in **Data Analysis**. With three years in the tech industry, I specialize in creating user-centric, engaging websites and am focused on leveraging my frontend development expertise to craft visually appealing digital experiences.
 
 ## 🔍 Current Projects
 
