@@ -1,26 +1,19 @@
-# Welcome to Dominick Grodkowski's GitHub! 👋
+![Welcome GIF](https://giphy.com/embed/hwHq2FFtzGqHR7AIgm)
+# Hi 👋, I'm Dominick Grodkowski
 
 ## 👨‍💻 About Me
-I am a dynamic professional with a profound passion for **web development** and a strong background in **Big Data**. With three years in the tech industry, I specialize in creating user-centric, engaging websites and am focused on leveraging my frontend development expertise to craft visually appealing digital experiences.
-
-## 🌱 What I'm Learning and Mastering
-
-- **Advanced Web Development:** Proficient in `HTML5`, `CSS3`, `JavaScript`, and `PHP` with a strong grasp on frameworks like `React`, `Typesrcipt`, and libraries like `jQuery`. Actively enhancing my skills in frontend technologies and exploring backend development with `Node.js` and `Symfony`.
-- **Full Stack Development:** Recently completed an intensive Full Stack Development program, mastering tools and technologies across the web development spectrum, from responsive design to backend services.
-- **Data Analysis & Big Data:** Skilled in `Python`, `RStudio`, `MySQL`, `Google BigQuery`, and familiar with data visualization tools such as `Google Analytics`, `Tableau`, `Qlik Sense`, and `Cognos Analytics`.
-- **Project Management & Development Tools:** Experienced with `Git`, `Docker`, and cloud platforms like `Google Cloud`. Proficient in using `Jira` and `Confluence` for project management.
-- **E-Commerce & SEO:** Founder of Averruncus e.K, successfully managing an e-commerce platform. Skilled in SEO, market research, and the use of `WordPress` and `Shopify` to drive business success.
-- **DevOps & Security:** Applying best practices in security, using modern DevOps tools to ensure robust, scalable, and secure deployments.
-
+I am a dynamic professional with a profound passion for **Web Development** and a strong background in **Big Data**. With three years in the tech industry, I specialize in creating user-centric, engaging websites and am focused on leveraging my frontend development expertise to craft visually appealing digital experiences.
 
 ## 🔍 Current Projects
 
 - **Portfolio Website:** Explore my personal projects and professional achievements at [Dominick-Grodkowski.de](https://Dominick-Grodkowski.de).
-- **E-Commerce Website:** A [Fitness-Website](https://fitness-typescript-cw8.pages.dev/) howcasing our state-of-the-art facilities, expert trainers, and tailored fitness programs designed to help you achieve your health and wellness goals.
-- **Marriage Website:** A single-page application [Wedding-Website](http://dominickandaleenasaidyes.de/) with responsive design that highlights a professional Wedding invitation.
-- **E-Commerce Website:** An advanced site built for [Cardify-Store.de](https://cardify-store.de/), featuring integrated analytics and user-friendly navigation.
-- **Regional Resort Analysis Dashboard:** An insightful [Tableau visualization](https://public.tableau.com/app/profile/dominick.grodkowski/viz/RegionalResortAnalysisofThailandUpdatedVersion/RegionalResortAnalysisDashboardofThailand) providing strategic data on tourism dynamics in Thailand.
-- **Los Angeles Crime Trends Dashboard:** A detailed [analytical study](https://public.tableau.com/app/profile/dominick.grodkowski/viz/LosAngelesCrimeTrendsOverTime/Dashboard1) of crime trends over time, developed to aid in sociological and city planning research.
+- **Fitness Website:** A [Fitness Website](https://fitness-typescript-cw8.pages.dev/) showcasing state-of-the-art facilities, expert trainers, and tailored fitness programs to help users achieve their wellness goals.
+- **Wedding Website:** A single-page [Wedding Invitation](http://dominickandaleenasaidyes.de/) with responsive design for a professional, elegant touch.
+- **E-Commerce Store:** Developed [Cardify Store](https://cardify-store.de/) with integrated analytics, providing a seamless shopping experience.
+- **Regional Resort Analysis Dashboard:** An insightful [Tableau dashboard](https://public.tableau.com/app/profile/dominick.grodkowski/viz/RegionalResortAnalysisofThailandUpdatedVersion/RegionalResortAnalysisDashboardofThailand) analyzing Thailand's tourism data.
+- **Los Angeles Crime Trends Dashboard:** A [Tableau dashboard](https://public.tableau.com/app/profile/dominick.grodkowski/viz/LosAngelesCrimeTrendsOverTime/Dashboard1) analyzing crime trends for sociological and city planning purposes.
+
+
 
 ### 🛠 Technologies
 <p align="left">
@@ -45,7 +38,14 @@ I am a dynamic professional with a profound passion for **web development** and 
   <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains" width="40" height="40"/> 
 </p>
 
-# Welcome to Dominick Grodkowski's GitHub! 👋
+
+## 🌱 What I'm Learning and Mastering
+- **Advanced Web Development:** Expertise in `HTML5`, `CSS3`, `JavaScript`, `PHP`, with advanced skills in `React`, `TypeScript`, and `Next.jsu`. Expanding backend skills with `Node.js` and `Symfony`.
+- **Full Stack Development:** Completed a Full Stack Development program covering frontend and backend technologies.
+- **Data Analysis & Big Data:** Proficient in `Python`, `RStudio`, `MySQL`, and `Google BigQuery`, with experience in tools like `Tableau` and `Google Analytics`.
+- **Project Management & DevOps:** Skilled in `Git`, `Docker`, `Jira`, `Confluence`, and cloud platforms like `Google Cloud`.
+- **E-Commerce & SEO:** Founder of Averruncus e.K, experienced in SEO and e-commerce management with platforms like `WordPress` and `Shopify`.
+- **Security:** Implementing security best practices across projects using modern DevOps tools.
 
 
 
@@ -62,5 +62,5 @@ I am a dynamic professional with a profound passion for **web development** and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dominick%20Grodkowski-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dominick-grodkowski/)
 
 
-Feel free to reach out if you have questions or just want to connect and chat about technology!
+Feel free to reach out if you have questions or just want to connect and chat!uu
 
