@@ -1,8 +1,8 @@
-![Welcome GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hhZDh3MGVjY3Bobm9vOHl4c2ZxdXl5OTRzZXdqdHdjMDkyM20xNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwHq2FFtzGqHR7AIgm/giphy-downsized-large.gif)
+<div>
+ <img align="right" alt="Welcome GIF" height="220em" width="220em" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hhZDh3MGVjY3Bobm9vOHl4c2ZxdXl5OTRzZXdqdHdjMDkyM20xNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwHq2FFtzGqHR7AIgm/giphy-downsized-large.gif">
 
-
-
-# Hi 👋, I'm Dominick Grodkowski
+ # Hi 👋, I'm Dominick Grodkowski
+</div>
 
 ## 👨‍💻 About Me
 I am a dynamic professional with a profound passion for **Web Development** and a strong background in **Data Analysis**. With three years in the tech industry, I specialize in creating user-centric, engaging websites and am focused on leveraging my frontend development expertise to craft visually appealing digital experiences.
