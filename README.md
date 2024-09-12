@@ -21,6 +21,7 @@ I am a dynamic professional with a profound passion for **Web Development** and 
 - **Fitness Website:** A [Fitness Website](https://fitness-typescript-cw8.pages.dev/) showcasing state-of-the-art facilities, expert trainers, and tailored fitness programs to help users achieve their wellness goals.
 - **Wedding Website:** A single-page [Wedding Invitation](http://dominickandaleenasaidyes.de/) with responsive design for a professional, elegant touch.
 - **E-Commerce Store:** Developed [Cardify Store](https://cardify-store.de/) with integrated analytics, providing a seamless shopping experience.
+- **Starship Repair Station** Developed [Galaxy](https://github.com/dominickgrodkowski/Galaxy) as a little project to showcase my skill with Symfony.
 - **Regional Resort Analysis Dashboard:** An insightful [Tableau dashboard](https://public.tableau.com/app/profile/dominick.grodkowski/viz/RegionalResortAnalysisofThailandUpdatedVersion/RegionalResortAnalysisDashboardofThailand) analyzing Thailand's tourism data.
 - **Los Angeles Crime Trends Dashboard:** A [Tableau dashboard](https://public.tableau.com/app/profile/dominick.grodkowski/viz/LosAngelesCrimeTrendsOverTime/Dashboard1) analyzing crime trends for sociological and city planning purposes.
 
