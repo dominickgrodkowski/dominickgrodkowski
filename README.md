@@ -67,9 +67,9 @@ u
 ### 💻 Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominickgrodkowski&layout=donut-vertical)](https://github.com/dominickgrodkowski/github-readme-stats)
 
-<div>
+<div style="display: flex; align-items: center; justify-content: space-between;">
   <!-- Left: Contact Information -->
-  <div align="left">
+  <div>
     <h3>📫 How to Reach Me</h3>
     <a href="https://www.linkedin.com/in/dominick-grodkowski/">
       <img src="https://img.shields.io/badge/LinkedIn-Dominick%20Grodkowski-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -78,8 +78,9 @@ u
   </div>
 
   <!-- Right: Giphy -->
-  <div align="right">
-    <img align="right" alt="giphy" height="220em" width="220em" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFkNjNibzNhZXNraXh2NDVpY3p4dDVtbjVmczcyZXp6eWY4cDN6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AgQA13YwynqfxyiLAa/giphy.gif">
+  <div>
+    <img alt="giphy" height="220em" width="220em" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA4bHEzOGlib3VmOHlpOXlhODhhMm9zNjUwYzU5dGNudGx2YXc0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M4NykXxUE0HAcK7UJ6/giphy.gif">
   </div>
 </div>
+
 
