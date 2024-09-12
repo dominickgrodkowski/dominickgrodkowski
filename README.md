@@ -1,7 +1,7 @@
 <br>
 
 <div>
- <img align="right" alt="code" height="220em" width="220em" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtoazFhcDNmNWg4dmtlMXY3aHBhZnZwbnVrOGR3bm9zbnZtMWo0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pEuD18F5xjR9SNVmYz/giphy.gif">
+ <img align="right" alt="code" height="220em" width="220em" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw0djl1c3V6aGZhNzV4N2t0dDBocjg4Z2d1MmYxMGZicGJlY2QyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2wh8AaMZ2jtRseDQ3C/giphy.gif">
  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominickgrodkowski&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
@@ -60,7 +60,7 @@ I am a dynamic professional with a profound passion for **Web Development** and 
 - **Security:** Implementing security best practices across projects using modern DevOps tools.
 
 
-
+u
 ### 📊 GitHub Stats:
 ![Dominick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominickgrodkowski&amp;rank_icon=github)
 
