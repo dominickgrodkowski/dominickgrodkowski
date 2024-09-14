@@ -60,7 +60,7 @@ I am a dynamic professional with a profound passion for **Web Development** and 
 - **Security:** Implementing security best practices across projects using modern DevOps tools.
 
 
-u
+
 ### 📊 GitHub Stats:
 ![Dominick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominickgrodkowski&amp;rank_icon=github)
 
@@ -68,7 +68,6 @@ u
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominickgrodkowski&layout=donut-vertical)](https://github.com/dominickgrodkowski/github-readme-stats)
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <!-- Left: Contact Information -->
   <div>
     <h3>📫 How to Reach Me</h3>
     <a href="https://www.linkedin.com/in/dominick-grodkowski/">
@@ -77,10 +76,11 @@ u
     <p>Feel free to reach out if you have questions or just want to connect and chat!</p>
   </div>
 
-  <!-- Right: Giphy -->
-  <div>
+
+<!-- <div>
     <img alt="giphy" height="220em" width="220em" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA4bHEzOGlib3VmOHlpOXlhODhhMm9zNjUwYzU5dGNudGx2YXc0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M4NykXxUE0HAcK7UJ6/giphy.gif">
   </div>
 </div>
+-->
 
 
