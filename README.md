@@ -17,6 +17,7 @@ I am a dynamic professional with a profound passion for **Web Development** and 
 
 ## 🔍 Current Projects
 
+- **WordPress Plugin Development:** Currently developing custom plugins for WordPress to enhance website functionality and improve user experience. These plugins are designed to be highly efficient, customizable, and tailored to meet specific business requirements.
 - **Portfolio Website:** Explore my personal projects and professional achievements at [Dominick-Grodkowski.de](https://Dominick-Grodkowski.de).
 - **Fitness Website:** A [Fitness Website](https://fitness-typescript-cw8.pages.dev/) showcasing state-of-the-art facilities, expert trainers, and tailored fitness programs to help users achieve their wellness goals.
 - **Wedding Website:** A single-page [Wedding Invitation](http://dominickandaleenasaidyes.de/) with responsive design for a professional, elegant touch.
