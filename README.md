@@ -17,7 +17,6 @@ I am a dynamic professional with a profound passion for **Web Development** and 
 
 ## 🔍 Current Projects
 - **Marketing agency:** At [Averruncus Innovations](https://averruncus-innovations.de/), we specialize in SEO, Google Ads, web design, and development to help businesses boost their online presence and drive growth.
-- **WordPress Plugin Development:** 
 - **WordPress Plugin Development:** Currently developing custom plugins for WordPress to enhance website functionality and improve user experience. These plugins are designed to be highly efficient, customizable, and tailored to meet specific business requirements.
 - **Portfolio Website:** Explore my personal projects and professional achievements at [Dominick-Grodkowski.de](https://Dominick-Grodkowski.de).
 - **Fitness Website:** A [Fitness Website](https://fitness-typescript-cw8.pages.dev/) showcasing state-of-the-art facilities, expert trainers, and tailored fitness programs to help users achieve their wellness goals.
