@@ -13,7 +13,7 @@
 
 
 ## 👨‍💻 About Me
-I am a dynamic professional with a profound passion for **Web Development** and a strong background in **Data Analysis**. With three years in the tech industry, I specialize in creating user-centric, engaging websites and am focused on leveraging my frontend development expertise to craft visually appealing digital experiences.
+I am a dynamic professional with a profound passion for **Web Development** and a strong background in **Data Analysis**. My career started in 2020, I specialize in creating user-centric, engaging websites and am focused on leveraging my frontend development expertise to craft visually appealing digital experiences.
 
 ## 🔍 Current Projects
 - **Marketing agency:** At [Averruncus Innovations](https://averruncus-innovations.de/), we specialize in SEO, Google Ads, web design, and development to help businesses boost their online presence and drive growth.
