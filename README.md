@@ -5,6 +5,7 @@
    <img align="center" height="180em"  src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw0djl1c3V6aGZhNzV4N2t0dDBocjg4Z2d1MmYxMGZicGJlY2QyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2wh8AaMZ2jtRseDQ3C/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2cwd3lvdmI2NGI4N3Z3cThsaTN3MmpwbjdlMHBqbnVyaW5taTRneCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TnVErEYGyAgFi/giphy.gif)">
 
 <br>
+
 # Hi 👋, I'm Dominick Grodkowski
 
 ## 👨‍💼 About Me
@@ -144,3 +145,4 @@ And when work is done, I still enjoy opening my editor and vibe coding something
   <img alt="giphy" height="220em" width="220em" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA4bHEzOGlib3VmOHlpOXlhODhhMm9zNjUwYzU5dGNudGx2YXc0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M4NykXxUE0HAcK7UJ6/giphy.gif">
 </div>
 -->
+
