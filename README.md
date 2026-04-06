@@ -1,9 +1,8 @@
 <br>
 
-<div align="center">
-  <img align="right" alt="code" height="220" width="220" src="https://media.giphy.com/media/TnVErEYGyAgFi/giphy.gif">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominickgrodkowski&layout=compact&langs_count=7&theme=dark" alt="Top Languages">
-</div>
+<div>
+  <img align="right" alt="code" height="220em" width="220em" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw0djl1c3V6aGZhNzV4N2t0dDBocjg4Z2d1MmYxMGZicGJlY2QyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2wh8AaMZ2jtRseDQ3C/giphy.gif">
+   <img align="center" height="180em"  src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw0djl1c3V6aGZhNzV4N2t0dDBocjg4Z2d1MmYxMGZicGJlY2QyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2wh8AaMZ2jtRseDQ3C/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2cwd3lvdmI2NGI4N3Z3cThsaTN3MmpwbjdlMHBqbnVyaW5taTRneCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TnVErEYGyAgFi/giphy.gif)">
 
 <br>
 # Hi 👋, I'm Dominick Grodkowski
