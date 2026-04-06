@@ -37,9 +37,6 @@ I am a marketer by profession and a coder by passion.
 - **Tatortreinigung Optimal:** [Tatortreinigung-Optimal.de](https://tatortreinigung-optimal.de/)  
   Built a professional service website for a specialized cleaning and disinfection company.
 
-- **Mailissa:** [Mailissa.com](https://mailissa.com/)  
-  Website and digital presence for an email productivity solution.
-
 - **Axontic:** [Axontic.com](https://axontic.com/)  
   Website project with a focus on modern presentation and business communication.
 
